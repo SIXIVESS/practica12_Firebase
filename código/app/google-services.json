@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1008021377587",
+    "project_id": "imageuploadfirebase-e8acc",
+    "storage_bucket": "imageuploadfirebase-e8acc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008021377587:android:47f12082c148b21b410946",
+        "android_client_info": {
+          "package_name": "mx.itson.edu.practica12"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKN4U4wyQhNF5lpwWKPDGzQ8mBAvVWoIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
