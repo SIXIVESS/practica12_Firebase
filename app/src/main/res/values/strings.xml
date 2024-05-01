@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Practica12</string>
+    <string name="title_activity_main">Firebase Kotlin</string>
+    <string name="subtitle_activity_main">Upload FIle</string>
+    <string name="all">TODO</string>
+    <string name="upload">Subir imagen</string>
 </resources>
